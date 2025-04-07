@@ -1,4 +1,4 @@
-# Imperial Computing Admissions Dashboard
+# Imperial College London Department of Computing Admission Data Dashboard
 
 ## Overview
 
@@ -6,23 +6,26 @@ This repository outlines a collaborative project with the Admissions Team at the
 
 > **⚠️ Note:** The source code and datasets are **not included** in this repository due to confidentiality and security policies. This repository highlights the features and design concepts developed for the project.
 
-## Objectives
-
-- Provide a visual overview of application and admissions data across multiple years.
-- Enable users to explore the data interactively through built-in tools.
-- Predict future admissions trends using historical data.
-- Allow for seamless handling of evolving spreadsheet formats over time.
-
 ## Key Features
 
 ### 📊 Visualisations
-Users can select from multiple types of graphs to visualise different aspects of the admissions data, including trends over time, demographic breakdowns, and application funnel stages.
+Users can select from multiple types of graphs to visualise different aspects of the admissions data, including trends over time, demographic breakdowns, and application funnel stages. The graphs are draggable, resizeable and interactable.
+
+
+<img width="1439" alt="newgraph" src="https://github.com/user-attachments/assets/37ef4af8-7593-4da1-9e76-da1eb20688d5" />
+
 
 ### 🛠 In-Built IDE for Custom Data Aggregation
 A browser-based interface allows users to perform custom data aggregation tasks directly within the dashboard. Aggregated results can then be visualised immediately using the selected graph type.
 
+![ide](https://github.com/user-attachments/assets/67518d86-ed1f-44aa-a6f8-eb12ccd19015)
+
+
 ### 🔮 Admission Prediction
 The system uses historical data to predict the number of students likely to accept their offers and enrol at the college, supporting forecasting and capacity planning.
+
+![Screenshot 2025-04-07 183143](https://github.com/user-attachments/assets/9db6c97d-1211-409b-a8ad-f861b2957856)
+
 
 ### 📁 Support for Evolving Spreadsheet Formats
 The system allows users to upload admissions spreadsheets from different academic years. It automatically maps and reconciles differing column structures to maintain compatibility and ensure accurate analysis.
@@ -35,4 +38,4 @@ The system allows users to upload admissions spreadsheets from different academi
 
 ## Acknowledgements
 
-This project was developed in collaboration with the Department of Computing Admissions Team at Imperial College London. Special thanks to the administrative and academic staff for their guidance, feedback, and support.
+This project was developed in collaboration with Imperial College London's Department of Computing Admissions Team. Special thanks to the staff for their guidance, feedback, and support.
