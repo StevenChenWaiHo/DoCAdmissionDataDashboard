@@ -1,4 +1,4 @@
-# Imperial College London Department of Computing Admission Data Dashboard
+# Imperial College London Department of Computing Admission Data Visualisation Dashboard
 
 ## Overview
 
